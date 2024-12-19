@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <a href="intent://arvr.google.com/scene-viewer/1.0?file=https://drive.google.com/uc?id=1liprLiQXPK7cDJAjQ-DXiEuUoX3ei1U6&export=download&mode=ar_only#Intent;scheme=https;package=com.google.ar.core;action=android.intent.action.VIEW;end;">
+        View in AR
+    </a>
+</body>
+</html>
